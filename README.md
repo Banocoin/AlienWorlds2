@@ -1,4 +1,4 @@
-# Alien Worlds API
+# Alien Worlds 2 API
 
 ### API to index and read Alien Worlds data
 
